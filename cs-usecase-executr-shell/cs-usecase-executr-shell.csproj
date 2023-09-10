@@ -1,10 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net6.0</TargetFramework>
         <RootNamespace>UseCaseExecutR</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <TargetFramework>net6.0</TargetFramework>
+        <PackageId>UseCaseExecutR</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>5enthilBaliah</Authors>
+        <Company>Project Chimera</Company>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
